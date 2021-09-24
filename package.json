@@ -1,0 +1,16 @@
+{
+  "name": "Tiktok-Api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Xflicks",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "tiktok-scraper": "^1.4.36"
+  }
+}
